@@ -1,0 +1,21 @@
+html, body, #app {
+    height: 100%;
+    margin: 0;
+}
+
+#app {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.box {
+    background: #fc9403;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 8px;
+    padding: 8px;
+}
